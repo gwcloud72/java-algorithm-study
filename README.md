@@ -64,14 +64,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gwcloud72)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gwcloud72)
-
-
----
-
-꾸준히 기록하며 문제 해결 능력을 키워가는 과정입니다.
+📊 My Progress
+오늘의 고민이 내일의 실력이 된다고 믿습니다. 꾸준히 기록하며 성장하는 과정을 지켜봐 주세요! 👊
