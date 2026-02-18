@@ -68,8 +68,9 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gwcloud72&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwcloud72&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gwcloud72&show_icons=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwcloud72&layout=compact&cache_seconds=86400)
+
 
 ---
 
